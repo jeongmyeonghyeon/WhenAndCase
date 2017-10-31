@@ -40,6 +40,8 @@ INSTALLED_APPS = [
 
     'conditional_expressions_practice',
 
+    'django_extensions',
+
 ]
 
 MIDDLEWARE = [
